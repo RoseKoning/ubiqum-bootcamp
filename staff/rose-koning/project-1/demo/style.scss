@@ -1,0 +1,24 @@
+$blue: azure;
+
+.header{
+    background-color: aquamarine;
+}
+.nav{
+    background-color: bisque;
+}
+.main{
+    background-color: $blue;
+}
+.details{
+    background-color:$blue;
+    &.h2{
+        color:blue;
+    }
+}
+
+.footer{
+    background-color:aqua;
+}
+.h2{
+    color:red;
+}

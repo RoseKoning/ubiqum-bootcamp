@@ -1,0 +1,28 @@
+.header {
+  background-color: aquamarine;
+}
+
+.nav {
+  background-color: bisque;
+}
+
+.main {
+  background-color: azure;
+}
+
+.details {
+  background-color: azure;
+}
+
+.details.h2 {
+  color: blue;
+}
+
+.footer {
+  background-color: aqua;
+}
+
+.h2 {
+  color: red;
+}
+/*# sourceMappingURL=style.css.map */
